@@ -1,0 +1,28 @@
+html {
+    font-family:'Courier New', Courier, monospace, serif;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    border-radius: 5px;
+    border-color:black;
+}
+
+a {
+    color:crimson;
+    text-decoration: none;
+
+}
+
+.listicle {
+    list-style: none;
+}
+
+.linked {
+    display: block;
+    text-align: center;
+}
